@@ -1,0 +1,1 @@
+Rename the folder to ".ipynb_checkpoints"
