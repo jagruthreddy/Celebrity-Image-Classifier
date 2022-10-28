@@ -60,7 +60,9 @@ We can remove images where is one eye or where face is not clear.
 
 ## Additional info
 [Article for haar cascade](https://docs.opencv.org/3.4/db/d28/tutorial_cascade_classifier.html) <br>
-The .idea directory contains a set of configuration files (. xml) for your project(PyCharm).<br>
+Check "UI" folder for Frontend<br>
+Check "server" folder for Backend<br>
+The ".idea" directory contains a set of configuration files (. xml) for your project(PyCharm).<br>
 
 1. Use anaconda interpreter(python 3.6) in pycharm
 2. use scikit-learn 0.20.0 version in pycharm.
